@@ -24,8 +24,11 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anisia-klimenko&theme=github-light)](https://git.io/streak-stats)
-</br>
 [![Anisia Klimenko GitHub stats](https://github-readme-stats.vercel.app/api?username=anisia-klimenko)](https://github.com/anisia-klimenko/github-readme-stats)</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anisia-klimenko&layout=compact&hide=Makefile)](https://github.com/anisia-klimenko/github-readme-stats)</br>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anisia-klimenko&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anisia-klimenko&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anisia-klimenko&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anisia-klimenko&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anisia-klimenko&theme=github&utcOffset=3)
 
