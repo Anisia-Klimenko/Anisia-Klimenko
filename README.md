@@ -1,16 +1,31 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://github.com/Anisia-Klimenko" target="_blank">Anisia</a>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">School 21 student</h3>
 
-<!--
-**Anisia-Klimenko/Anisia-Klimenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 About Me :
 
-Here are some ideas to get you started:
+- Bachelor in Laser Physics
+- Master in Data Engineering
+- Current Student of School 21
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### :hammer_and_wrench: Languages and Tools, and Platforms :
+#### :information_desk_person: Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=sql&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+#### :hammer: Tools
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### :computer: Platforms
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) 
+---
+
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anisia-klimenko&theme=github-light)](https://git.io/streak-stats)
+</br>
+[![Anisia Klimenko GitHub stats](https://github-readme-stats.vercel.app/api?username=anisia-klimenko)](https://github.com/anisia-klimenko/github-readme-stats)</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anisia-klimenko&layout=compact&hide=Makefile)](https://github.com/anisia-klimenko/github-readme-stats)</br>
+
